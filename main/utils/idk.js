@@ -2,5 +2,5 @@ import * as base from "https://static.sparxhomework.uk/sw2/b5647ce1effb454936bed
 console.log("New update!")
 
 for (const prop in base){
-  console.log(prop)
+  console.log(base[prop])
 }
