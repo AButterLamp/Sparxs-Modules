@@ -5,4 +5,4 @@ console.log("Neww update!")
   console.log(base[prop])
 }*/
 
-console.log(c.j)
+console.log(base.j)
